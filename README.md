@@ -17,3 +17,7 @@ Hand sign covers:
 + NVIDIA CUDA Toolkit 11.6.2
 + Tensorflow 2.8.0
 + Keras 2.8.0!
+
+## How to use:
++ Download release file and install on any Android device with API 30 or higher
++ Must allow camera access to use application
